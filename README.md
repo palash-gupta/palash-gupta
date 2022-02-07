@@ -1,7 +1,4 @@
 # doin your dad doin doin your dad
-### Hi there 👋
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on doing your dad
 - 🌱 I’m currently learning your dad
