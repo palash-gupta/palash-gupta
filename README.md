@@ -23,4 +23,4 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reiter21)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=reiter21&show_icons=true&count_private=true)  
-![GitHub metrics](https://metrics.lecoq.io/codeize)![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=reiter21)
+![GitHub metrics](https://metrics.lecoq.io/reiter21)![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=reiter21)
