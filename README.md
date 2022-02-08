@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am doing your dad
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0l8lvp99qtlkx87lufuj1c0jd&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=0l8lvp99qtlkx87lufuj1c0jd&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=errbijnsmdj9f9npmps7gbbm7&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=errbijnsmdj9f9npmps7gbbm7&redirect=true)
 
 ---
 
