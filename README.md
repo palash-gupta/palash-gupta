@@ -35,4 +35,4 @@
 </a>&nbsp;&nbsp;-->
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reiter21)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pancham1603&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reiter21)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=reiter21&show_icons=true&count_private=true)  
