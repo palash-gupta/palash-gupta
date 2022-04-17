@@ -1,13 +1,7 @@
-# doin your dad doin doin your dad
+# Welcome to my GitHub page
 
-- 🔭 I’m currently working on doing your dad
-- 🌱 I’m currently learning your dad
-- 👯 I’m looking to collaborate on your dad
-- 🤔 I’m looking for help with your dad
-- 💬 Ask me about your dad
-- 📫 How to reach me: ask your dad
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am doing your dad
+- How to reach me: ![Mail Me](mailto:palash21gupta@gmail.com) ![Reiter#3491](https://discord.com)
+- Pronouns: he/him
 
 ---
 
