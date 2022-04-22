@@ -6,7 +6,7 @@
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=errbijnsmdj9f9npmps7gbbm7&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <br>
-![](https://komarev.com/ghpvc/?username=reiter21)
+![](https://komarev.com/ghpvc/?username=palash-gupta)
 
 ---
 
@@ -16,6 +16,6 @@
 ---
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reiter21)](https://github.com/anuraghazra/github-readme-stats) <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reiter21&show_icons=true&count_private=true) <br>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=reiter21) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-gupta)](https://github.com/anuraghazra/github-readme-stats) <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-gupta&show_icons=true&count_private=true) <br>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=palash-gupta) 
