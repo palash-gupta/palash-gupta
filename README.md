@@ -1,6 +1,6 @@
 # Welcome to my GitHub page
 
-- How to reach me: [Mail Me](mailto:palash21gupta@gmail.com) [Reiter#3491](https://discord.com)
+- How to reach me: [Mail Me](mailto:palash21gupta@gmail.com) [reiter21](https://discord.com)
 - Pronouns: he/him
 
 ---
